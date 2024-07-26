@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "5e4c",
+      "title": "Философский камень",
+      "completed": false
+    },
+    {
+      "id": "f5cf",
+      "title": "Тайная комната",
+      "completed": false
+    },
+    {
+      "id": "00af",
+      "title": "Кубок огня",
+      "completed": false
+    }
+  ]
+}
